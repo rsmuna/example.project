@@ -1,0 +1,10 @@
+Feature: User can visit Amazon Best Seller page
+
+@bestseller
+User visits Best Seller page
+
+Scenario: 
+
+Given Users have to access to Amajon page
+When user will  clicks on Best Seller tab
+Then User will be directed to Best Seller page
